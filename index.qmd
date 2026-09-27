@@ -9,7 +9,7 @@ editor: visual
 **Student:** Luis Ahumada\
 **Course:** IBM 6500
 
-This portfolio contains my DataCamp course-completion evidence and learning notes for SQL and BigQuery.
+This portfolio contains my Data Camp course-completion evidence and learning notes for SQL and BigQuery.
 
 ## Reports
 
