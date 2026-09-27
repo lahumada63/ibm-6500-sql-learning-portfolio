@@ -140,3 +140,5 @@ I expect to review the order of the commands and syntax more than anything. I fe
 # Appendix
 
 [Github Repo](https://github.com/lahumada63/ibm-6500-sql-learning-portfolio.git)
+
+[Git Page](https://lahumada63.github.io/ibm-6500-sql-learning-portfolio/#course-completion-evidence)
