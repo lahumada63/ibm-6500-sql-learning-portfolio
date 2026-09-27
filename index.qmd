@@ -1,0 +1,18 @@
+---
+title: "IBM 6500 SQL Learning Portfolio"
+format: html
+editor: visual
+---
+
+# IBM 6500 SQL Learning Portfolio
+
+**Student:** Luis Ahumada\
+**Course:** IBM 6500
+
+This portfolio contains my DataCamp course-completion evidence and learning notes for SQL and BigQuery.
+
+## Reports
+
+- [Introduction to SQL](introduction-to-sql.html)
+- Intermediate SQL (to be completed)
+- Introduction to BigQuery (to be completed)
