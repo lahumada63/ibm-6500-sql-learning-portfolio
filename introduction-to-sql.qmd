@@ -101,7 +101,7 @@ This selects the conversion ID, revenue, and `conversions` table
 
 This can help me during the CEP because I can sort campaigns by impressions and identify the campaigns with the highest reach.
 
-## Find Unique Values and Rename Columns 
+## Find Unique Values and Rename Columns
 
 ### Main Ideas
 
