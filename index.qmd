@@ -13,6 +13,6 @@ This portfolio contains my DataCamp course-completion evidence and learning note
 
 ## Reports
 
-- [Introduction to SQL](introduction-to-sql.html)
+- [Introduction to SQL](https://lahumada63.github.io/Visualizing-Data-with-Tables-for-MSDM-CEP-Assignment/)
 - Intermediate SQL (to be completed)
 - Introduction to BigQuery (to be completed)
